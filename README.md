@@ -24,8 +24,8 @@ sempre em contínuo movimento para buscar o meu melhor.
 <h3 align="center">Informaçõe sobre meu GitHub:</h3> 
 
 <a align="center" href="https://github.com/BeatrizSouz/github-readme-stats" >
-  <img height="180cm"   src="https://github-readme-stats.vercel.app/api?username=BeatrizSouz&count_private=true&show_icons=true&theme=aura_dark">
-  <img height="180cm"  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizSouz&layout=compact&theme=aura_dark">
+  <img height="140cm"   src="https://github-readme-stats.vercel.app/api?username=BeatrizSouz&count_private=true&show_icons=true&theme=aura_dark">
+  <img height="140cm"  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizSouz&layout=compact&theme=aura_dark">
 </a>             
 
 
