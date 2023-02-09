@@ -9,7 +9,7 @@
 <img align="right" alt="Bea-gif" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/112733336/217351599-689684af-68e4-424d-b1ba-b35d556659fc.gif">
 
 <p align="left"> 
-Meu primeiro contato com programação foi durante as aulas de Lógica de programação durante o curso de manutenção e suporte em informática, integrado ao ensino médio, porém, foi no ano de 2022 que descobri minha vontade de programar e comecei meus estudos.</p>
+Meu primeiro contato com programação foi durante as aulas de Lógica de programação no curso de manutenção e suporte em informática, integrado ao ensino médio, porém, foi no ano de 2022 que descobri minha vontade de programar e comecei meus estudos.</p>
 <p>Minha primeira formação na área foi através do programa, Mil Devs da empresa mesttra, que forma aprendizes em programação para ingressar no mercado de trabalho. Desde então, continuo com o ciclo de aprendizado, estou
 sempre em contínuo movimento para buscar o meu melhor.</p>																					
 
@@ -34,18 +34,10 @@ sempre em contínuo movimento para buscar o meu melhor.</p>
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
-**Aplicações e Dados**
 
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-
-**Utilidades**
-
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-
-
-**Ferramentas de Desenvolvimento**
-
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
