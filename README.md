@@ -3,7 +3,7 @@
 
 
 <p align="center"> <strong>
-  🦉Olá, eu sou Beatriz Carvalho, desenvolvedora júnior na linguagem Java e estudante. </strong> </P>
+  🦉Olá, eu sou Beatriz Carvalho, desenvolvedora júnior e estudante. </strong> </P>
 
 
 <img align="right" alt="Bea-gif" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/112733336/217351599-689684af-68e4-424d-b1ba-b35d556659fc.gif">
