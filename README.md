@@ -10,7 +10,7 @@
 
 <p align="left"> 
 Meu primeiro contato com programação foi durante as aulas de Lógica de programação no curso de manutenção e suporte em informática, integrado ao ensino médio, porém, descobri minha vontade de programar e comecei meus estudos.</p>
-<p>Minha primeira formação na área foi através do programa, Mil Devs da empresa mesttra, que forma aprendizes em programação. Desde então, continuo com o ciclo de aprendizado, estou
+<p>Minha curso na área foi através do programa, Mil Devs da empresa mesttra, que forma aprendizes em programação. Desde então, continuo com o ciclo de aprendizado, estou
 sempre em contínuo movimento para buscar o meu melhor.</p>																					
 
 <p> <strong >📩Entre em contato :</strong>                                                    
